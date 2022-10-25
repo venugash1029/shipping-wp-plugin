@@ -1,15 +1,11 @@
 <?php
  
 /**
- * Plugin Name: TutsPlus Shipping
- * Plugin URI: http://code.tutsplus.com/tutorials/create-a-custom-shipping-method-for-woocommerce--cms-26098
+ * Plugin Name: Venu Shipping
  * Description: Custom Shipping Method for WooCommerce
  * Version: 1.0.0
- * Author: Igor Benić
- * Author URI: http://www.ibenic.com
+ * Author: Venugash
  * License: GPL-3.0+
- * License URI: http://www.gnu.org/licenses/gpl-3.0.html
- * Domain Path: /lang
  * Text Domain: tutsplus
  */
  
